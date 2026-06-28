@@ -1,0 +1,101 @@
+customer_id,signup_date,churn_date,subscription_type,monthly_spend,contract_length_months,support_tickets,payment_method,region,customer_segment
+C001,2025-06-01,,Premium,99.99,12,2,Credit Card,North,Enterprise
+C002,2025-06-05,2025-08-15,Basic,29.99,1,0,PayPal,South,SMB
+C003,2025-06-08,,Pro,59.99,6,1,Credit Card,East,Mid-Market
+C004,2025-06-12,,Premium,99.99,12,5,Debit Card,West,Enterprise
+C005,2025-06-15,2025-07-20,Basic,29.99,1,1,Credit Card,North,SMB
+C006,2025-06-18,,Pro,59.99,6,2,PayPal,South,Mid-Market
+C007,2025-06-22,2025-08-10,Basic,29.99,1,0,Credit Card,East,SMB
+C008,2025-06-25,,Premium,99.99,12,3,Credit Card,West,Enterprise
+C009,2025-06-28,,Pro,59.99,6,1,Debit Card,North,Mid-Market
+C010,2025-07-01,2025-08-25,Basic,29.99,1,2,PayPal,South,SMB
+C011,2025-07-05,,Pro,59.99,6,4,Credit Card,East,Mid-Market
+C012,2025-07-08,,Premium,99.99,12,1,Credit Card,West,Enterprise
+C013,2025-07-12,2025-08-05,Basic,29.99,1,0,Debit Card,North,SMB
+C014,2025-07-15,,Pro,59.99,6,3,PayPal,South,Mid-Market
+C015,2025-07-18,,Premium,99.99,12,2,Credit Card,East,Enterprise
+C016,2025-07-22,2025-09-01,Basic,29.99,1,1,Credit Card,West,SMB
+C017,2025-07-25,,Pro,59.99,6,2,Credit Card,North,Mid-Market
+C018,2025-07-28,,Premium,99.99,12,4,PayPal,South,Enterprise
+C019,2025-08-01,2025-09-10,Basic,29.99,1,0,Debit Card,East,SMB
+C020,2025-08-05,,Pro,59.99,6,1,Credit Card,West,Mid-Market
+C021,2025-08-08,,Premium,99.99,12,3,Credit Card,North,Enterprise
+C022,2025-08-12,2025-09-15,Basic,29.99,1,2,PayPal,South,SMB
+C023,2025-08-15,,Pro,59.99,6,1,Credit Card,East,Mid-Market
+C024,2025-08-18,,Premium,99.99,12,2,Debit Card,West,Enterprise
+C025,2025-08-22,,Basic,29.99,1,0,Credit Card,North,SMB
+C026,2025-08-25,2025-09-20,Pro,59.99,6,3,Credit Card,South,Mid-Market
+C027,2025-08-28,,Premium,99.99,12,1,PayPal,East,Enterprise
+C028,2025-09-01,,Basic,29.99,1,1,Credit Card,West,SMB
+C029,2025-09-05,,Pro,59.99,6,4,Credit Card,North,Mid-Market
+C030,2025-09-08,,Premium,99.99,12,2,Debit Card,South,Enterprise
+C031,2025-09-12,2025-10-05,Basic,29.99,1,0,PayPal,East,SMB
+C032,2025-09-15,,Pro,59.99,6,1,Credit Card,West,Mid-Market
+C033,2025-09-18,,Premium,99.99,12,3,Credit Card,North,Enterprise
+C034,2025-09-22,,Basic,29.99,1,2,Debit Card,South,SMB
+C035,2025-09-25,,Pro,59.99,6,1,Credit Card,East,Mid-Market
+C036,2025-09-28,2025-10-20,Premium,99.99,12,2,PayPal,West,Enterprise
+C037,2025-10-01,,Basic,29.99,1,0,Credit Card,North,SMB
+C038,2025-10-05,,Pro,59.99,6,4,Credit Card,South,Mid-Market
+C039,2025-10-08,,Premium,99.99,12,1,Credit Card,East,Enterprise
+C040,2025-10-12,,Basic,29.99,1,1,Debit Card,West,SMB
+C041,2025-10-15,,Pro,59.99,6,2,PayPal,North,Mid-Market
+C042,2025-10-18,2025-11-05,Premium,99.99,12,3,Credit Card,South,Enterprise
+C043,2025-10-22,,Basic,29.99,1,0,Credit Card,East,SMB
+C044,2025-10-25,,Pro,59.99,6,1,Credit Card,West,Mid-Market
+C045,2025-10-28,,Premium,99.99,12,2,Debit Card,North,Enterprise
+C046,2025-11-01,2025-11-20,Basic,29.99,1,1,PayPal,South,SMB
+C047,2025-11-05,,Pro,59.99,6,4,Credit Card,East,Mid-Market
+C048,2025-11-08,,Premium,99.99,12,2,Credit Card,West,Enterprise
+C049,2025-11-12,,Basic,29.99,1,0,Credit Card,North,SMB
+C050,2025-11-15,,Pro,59.99,6,3,Debit Card,South,Mid-Market
+C051,2025-11-18,,Premium,99.99,12,1,PayPal,East,Enterprise
+C052,2025-11-22,2025-12-10,Basic,29.99,1,2,Credit Card,West,SMB
+C053,2025-11-25,,Pro,59.99,6,1,Credit Card,North,Mid-Market
+C054,2025-11-28,,Premium,99.99,12,3,Debit Card,South,Enterprise
+C055,2025-12-01,,Basic,29.99,1,0,PayPal,East,SMB
+C056,2025-12-05,,Pro,59.99,6,2,Credit Card,West,Mid-Market
+C057,2025-12-08,,Premium,99.99,12,4,Credit Card,North,Enterprise
+C058,2025-12-12,2026-01-05,Basic,29.99,1,1,Debit Card,South,SMB
+C059,2025-12-15,,Pro,59.99,6,1,Credit Card,East,Mid-Market
+C060,2025-12-18,,Premium,99.99,12,2,PayPal,West,Enterprise
+C061,2025-12-22,,Basic,29.99,1,0,Credit Card,North,SMB
+C062,2025-12-25,,Pro,59.99,6,3,Credit Card,South,Mid-Market
+C063,2025-12-28,,Premium,99.99,12,1,Debit Card,East,Enterprise
+C064,2026-01-01,2026-02-01,Basic,29.99,1,2,PayPal,West,SMB
+C065,2026-01-05,,Pro,59.99,6,1,Credit Card,North,Mid-Market
+C066,2026-01-08,,Premium,99.99,12,4,Credit Card,South,Enterprise
+C067,2026-01-12,,Basic,29.99,1,0,Credit Card,East,SMB
+C068,2026-01-15,,Pro,59.99,6,2,Debit Card,West,Mid-Market
+C069,2026-01-18,2026-02-15,Premium,99.99,12,3,Credit Card,North,Enterprise
+C070,2026-01-22,,Basic,29.99,1,1,PayPal,South,SMB
+C071,2026-01-25,,Pro,59.99,6,1,Credit Card,East,Mid-Market
+C072,2026-01-28,,Premium,99.99,12,2,Credit Card,West,Enterprise
+C073,2026-02-01,,Basic,29.99,1,0,Debit Card,North,SMB
+C074,2026-02-05,,Pro,59.99,6,4,Credit Card,South,Mid-Market
+C075,2026-02-08,,Premium,99.99,12,1,PayPal,East,Enterprise
+C076,2026-02-12,2026-03-05,Basic,29.99,1,2,Credit Card,West,SMB
+C077,2026-02-15,,Pro,59.99,6,1,Credit Card,North,Mid-Market
+C078,2026-02-18,,Premium,99.99,12,3,Debit Card,South,Enterprise
+C079,2026-02-22,,Basic,29.99,1,0,PayPal,East,SMB
+C080,2026-02-25,,Pro,59.99,6,2,Credit Card,West,Mid-Market
+C081,2026-02-28,,Premium,99.99,12,1,Credit Card,North,Enterprise
+C082,2026-03-05,2026-04-01,Basic,29.99,1,1,Debit Card,South,SMB
+C083,2026-03-08,,Pro,59.99,6,3,Credit Card,East,Mid-Market
+C084,2026-03-12,,Premium,99.99,12,2,PayPal,West,Enterprise
+C085,2026-03-15,,Basic,29.99,1,0,Credit Card,North,SMB
+C086,2026-03-18,,Pro,59.99,6,1,Credit Card,South,Mid-Market
+C087,2026-03-22,,Premium,99.99,12,4,Debit Card,East,Enterprise
+C088,2026-03-25,2026-04-20,Basic,29.99,1,2,Credit Card,West,SMB
+C089,2026-03-28,,Pro,59.99,6,1,PayPal,North,Mid-Market
+C090,2026-04-01,,Premium,99.99,12,3,Credit Card,South,Enterprise
+C091,2026-04-05,,Basic,29.99,1,0,Credit Card,East,SMB
+C092,2026-04-08,,Pro,59.99,6,2,Debit Card,West,Mid-Market
+C093,2026-04-12,,Premium,99.99,12,1,Credit Card,North,Enterprise
+C094,2026-04-15,2026-05-10,Basic,29.99,1,1,PayPal,South,SMB
+C095,2026-04-18,,Pro,59.99,6,4,Credit Card,East,Mid-Market
+C096,2026-04-22,,Premium,99.99,12,2,Credit Card,West,Enterprise
+C097,2026-04-25,,Basic,29.99,1,0,Debit Card,North,SMB
+C098,2026-04-28,,Pro,59.99,6,3,Credit Card,South,Mid-Market
+C099,2026-05-01,,Premium,99.99,12,1,PayPal,East,Enterprise
+C100,2026-05-05,,Basic,29.99,1,2,Credit Card,West,SMB
